@@ -8,3 +8,5 @@ jobs:
         run: echo "Hello World!"
       - name: Print GoodBye
         run: echo "Done -Bye!"
+      - name: Print Working Directory
+        run: pwd  
